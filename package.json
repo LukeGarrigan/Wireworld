@@ -1,0 +1,10 @@
+{
+  "name": "Wireworld",
+  "version": "1.0.0",
+  "main": "sketch.js",
+  "author": "Luke <lukegarrigan8@gmail.com>",
+  "scripts": {
+    "dev": "live-server --port=3000"
+  },
+  "license": "MIT"
+}
